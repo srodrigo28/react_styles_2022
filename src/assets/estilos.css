@@ -32,12 +32,6 @@
   background: white;
   color: #41d3be;
 }
-
-.titulo {
-  color: grey;
-  padding: 25px 0;
-}
-
 .cabecalho {
   background-color: #41d3be;
   display: flex;
@@ -48,7 +42,8 @@
 }
 
 .container {
-  background-color: #f1f1f1;
+  /* background-color: #f1f1f1; */
+  background-color: blueviolet;
   min-height: 90vh;
   padding: 0px 15vw;
 }
